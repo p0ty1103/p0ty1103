@@ -1,20 +1,47 @@
-### Hello there 👋
+# 🛠️ Hi, I'm p0ty1103
 
-・I'm high scool student.  
-・I'm 18 years old.  
-・I'm learing C/C++,Python,html/css,JavaScript,Kali...  
-  I like using Kali Linux. The reason is that I think this OS is the easiest to use compared to other OS.  
-・My team is <a href="https://github.com/Liberluna/">Liberluna</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Security_Camp_'25-Threat_Analysis-FF6B6B?style=for-the-badge&logo=target" alt="Security Camp">
+  <img src="https://img.shields.io/badge/CODE_BLUE_2025-Student_Staff-4DABF7?style=for-the-badge&logo=google-cloud" alt="CodeBlue Staff">
+  <img src="https://img.shields.io/badge/E4syCTF-Admin_%2F_Author-51CF66?style=for-the-badge&logo=ctf" alt="E4syCTF Admin">
+</p>
 
-![terminal](https://metrics.lecoq.io/Pochi-Liberluna?template=terminal&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p0ty1103&theme=blueberry)
-![](https://github-readme-stats.vercel.app/api?username=p0ty1103&count_private=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0ty1103&layout=compact&theme=blueberry
-)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### ⚡ About Me
 
-We are Annonymous!  
-I'm member of "Liberluna"!  
-Liberluna is hacker,programmer,engineer group.(https://liberluna.github.io/)  
+- 🎓 **High School Student** | 18 y/o Security Enthusiast.
+- 🛡️ **Achievements:**
+  - **Security Camp '25** Threat Analysis Course (脅威解析) Participant
+  - **CODE BLUE '25** Student Staff
+  - **E4syCTF Admin** (Admin & Author)
+- 💻 **Environment:** Developing & Researching on **WSL2 (Ubuntu)**.
+- 🎯 **Interest:** Malware Analysis, Vulnerability Research, CTFs, and Tool Development.
 
-Thank you for seeing my README.
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-C%2F%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p0ty1103&theme=transparent" width="100%">
+</p>
+
+---
+
+<p align="center">
+  <i>Stay hungry, stay foolish.</i>
+</p>
